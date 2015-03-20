@@ -63,7 +63,7 @@ Installation
 Documentation
 =============
 
-https://smartOWL.readthedocs.org/
+https://smartowl.readthedocs.org/
 
 Development
 ===========
