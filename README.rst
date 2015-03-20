@@ -5,8 +5,8 @@ smartOWL
 | |docs| |travis| |appveyor| |coveralls| |landscape| |scrutinizer|
 | |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
-.. |docs| image:: https://readthedocs.org/projects/smartOWL/badge/?style=flat
-    :target: https://readthedocs.org/projects/smartOWL
+.. |docs| image:: https://readthedocs.org/projects/smartowl/badge/?style=flat
+    :target: https://readthedocs.org/projects/smartowl
     :alt: Documentation Status
 
 .. |travis| image:: http://img.shields.io/travis/fmarco76/smartOWL/master.png?style=flat
