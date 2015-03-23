@@ -26,7 +26,7 @@ author = u'Marco Fargetta'
 copyright = '{0}, {1}'.format(year, author)
 version = release = u'0.1.0'
 
-import sphinx_py3doc_enhanced_theme
+# import sphinx_py3doc_enhanced_theme
 # html_theme = "sphinx_py3doc_enhanced_theme"
 # html_theme_path = [sphinx_py3doc_enhanced_theme.get_html_theme_path()]
 
