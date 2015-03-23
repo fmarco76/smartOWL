@@ -58,6 +58,7 @@ setup(
         # eg: 'keyword1', 'keyword2', 'keyword3',
     ],
     install_requires=[
+        'rdflib>=4.1.2'
         # eg: 'aspectlib==1.1.1', 'six>=1.7',
     ],
     extras_require={
