@@ -25,23 +25,28 @@ smartOWL
     :target: https://landscape.io/github/fmarco76/smartOWL/master
     :alt: Code Quality Status
 
-.. |version| image:: http://img.shields.io/pypi/v/smartowl.png?style=flat
+..
+   |version| image:: http://img.shields.io/pypi/v/smartowl.png?style=flat
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/smartowl
 
-.. |downloads| image:: http://img.shields.io/pypi/dm/smartowl.png?style=flat
+..
+   |downloads| image:: http://img.shields.io/pypi/dm/smartowl.png?style=flat
     :alt: PyPI Package monthly downloads
     :target: https://pypi.python.org/pypi/smartowl
 
-.. |wheel| image:: https://pypip.in/wheel/smartowl/badge.png?style=flat
+..
+   |wheel| image:: https://pypip.in/wheel/smartowl/badge.png?style=flat
     :alt: PyPI Wheel
     :target: https://pypi.python.org/pypi/smartowl
 
-.. |supported-versions| image:: https://pypip.in/py_versions/smartowl/badge.png?style=flat
+..
+   |supported-versions| image:: https://pypip.in/py_versions/smartowl/badge.png?style=flat
     :alt: Supported versions
     :target: https://pypi.python.org/pypi/smartowl
 
-.. |supported-implementations| image:: https://pypip.in/implementation/smartowl/badge.png?style=flat
+..
+   |supported-implementations| image:: https://pypip.in/implementation/smartowl/badge.png?style=flat
     :alt: Supported imlementations
     :target: https://pypi.python.org/pypi/smartowl
 
