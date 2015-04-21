@@ -3,13 +3,11 @@
 from __future__ import absolute_import, print_function
 
 import io
-import os
 import re
 from glob import glob
 from os.path import basename
 from os.path import dirname
 from os.path import join
-from os.path import relpath
 from os.path import splitext
 
 from setuptools import find_packages
@@ -56,10 +54,11 @@ setup(
     ],
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
+        'OWL', 'semantic web'
     ],
     install_requires=[
-        'rdflib>=4.1.2'
         # eg: 'aspectlib==1.1.1', 'six>=1.7',
+        'rdflib>=4.1.2'
     ],
     extras_require={
         # eg: 'rst': ['docutils>=0.11'],
