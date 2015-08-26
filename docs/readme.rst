@@ -2,4 +2,4 @@
 Overview
 ########
 
-.. include:: ../README.rst
+A library to create and/or read semantic documents using OWL

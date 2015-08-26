@@ -14,11 +14,11 @@ class Test_smartowl:
         o = smartowl.OWLontology(file_path='./tests/ontologies/ontologia.owl')
         print(o.get_xml_document('pretty-xml'))
 
-    def test_add_owl_individuals(self):
-        basic_ontology = smartowl.OWLontology()
-        basic_ontology.add_namespace("fede","http://www.ct.infn.it/ontology/federation#")
-
-        basic_ontology.add_owl_individual(
-            Namespace("http://www.ct.infn.it/ontology/federation#").paperino
-        )
-        print(basic_ontology.get_xml_document('pretty-xml'))
+#    def test_add_owl_individuals(self):
+#        basic_ontology = smartowl.OWLontology()
+#        basic_ontology.add_namespace("fede","http://www.ct.infn.it/ontology/federation#")
+#
+#        basic_ontology.add_owl_individual(
+#            Namespace("http://www.ct.infn.it/ontology/federation#").paperino
+#        )
+#        print(basic_ontology.get_xml_document('pretty-xml'))

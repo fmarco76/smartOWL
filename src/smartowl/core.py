@@ -14,8 +14,7 @@
   limitations under the License.
 """
 
-from rdflib import Graph, Namespace, OWL, RDF
-
+from rdflib import Graph, OWL, RDF
 from rdflib.exceptions import TypeCheckError
 
 __author__ = 'marco'
@@ -40,10 +39,8 @@ class OWLontology(object):
             self.graph.parse(file_path)
         self.graph.bind('owl', 'http://www.w3.org/2002/07/owl#')
 
-
     def add_namespace(self, prefix, namespace):
         self.graph.bind(prefix, namespace)
-
 
     def get_xml_document(self, format='pretty-xml'):
         """
@@ -52,7 +49,6 @@ class OWLontology(object):
         :return: String with the xml
         """
         return self.graph.serialize(format=format)
-
 
     def add_owl_individual(self, individual):
         """
@@ -64,7 +60,6 @@ class OWLontology(object):
         self.graph.add((individual.identifier, RDF.type, OWL.NamedIndividual))
         self.graph.add((individual.identifier, RDF.type, individual.type))
 
-
     def get_owl_individual(self, identifier):
         """
 
@@ -74,7 +69,6 @@ class OWLontology(object):
 #            raise TypeCheckError("Type not provided for the search")
 
         self.graph.add((identifier, RDF.about, OWL.NamedIndividual))
-
 
 
 class NamedIndividual(object):
