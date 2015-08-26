@@ -16,9 +16,9 @@ smartOWL
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/fmarco76/smartowl-3qi0x
 
-.. |coveralls| image:: https://coveralls.io/repos/fmarco76/smartOWL/badge.svg?style=flat
+.. |coveralls| image:: https://coveralls.io/repos/fmarco76/smartOWL/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/fmarco76/smartOWL 
+    :target: https://coveralls.io/github/fmarco76/smartOWL?branch=master
 
 .. |landscape| image:: https://landscape.io/github/fmarco76/smartOWL/master/landscape.svg?style=flat
     :target: https://landscape.io/github/fmarco76/smartOWL/master
