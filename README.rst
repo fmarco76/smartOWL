@@ -3,7 +3,6 @@ smartOWL
 ===============================
 
 | |docs| |travis| |appveyor| |coveralls| |landscape| |scrutinizer|
-| |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
 .. |docs| image:: https://readthedocs.org/projects/smartowl/badge/?style=flat
     :target: http://smartowl.readthedocs.org/en/latest/
