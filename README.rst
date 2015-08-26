@@ -6,7 +6,7 @@ smartOWL
 | |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
 .. |docs| image:: https://readthedocs.org/projects/smartowl/badge/?style=flat
-    :target: http://smartowl.readthedocs.org/en/latest/ 
+    :target: http://smartowl.readthedocs.org/en/latest/
     :alt: Documentation Status
 
 .. |travis| image:: http://img.shields.io/travis/fmarco76/smartOWL/master.png?style=flat
@@ -15,7 +15,7 @@ smartOWL
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/fmarco76/smartOWL?branch=master
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/fmarco76/smartOWL
+    :target: https://ci.appveyor.com/project/fmarco76/smartowl-3qi0x
 
 .. |coveralls| image:: https://coveralls.io/repos/fmarco76/smartOWL/badge.svg?style=flat
     :alt: Coverage Status
